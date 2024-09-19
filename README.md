@@ -1,4 +1,5 @@
-# ddiary
+# 100 Days Diary
+**100 Days Diary** is a unique journaling experience where you write a diary for 100 days, and after completing this period, each entry is revealed to you one by one, every day.
 
 ## Project setup
 ```
@@ -14,11 +15,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
