@@ -1,5 +1,5 @@
 <template>
-  <v-row dense align="center" justify="center">
+  <v-row align="center" justify="center">
     <v-col align-self="center" cols="12" md="4">
       <v-card
         variant="outlined"
